@@ -1,4 +1,4 @@
-# Web_Design_Weather Data https://williamjones0706.github.io/Web_Design_Challenge/index.html
+# Web_Design_Weather Data https://williamjones0706.github.io/Web_Design_Weather_Dashboard
 
 Latitude - Latitude Analysis Dashboard with Attitude
 Create a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
